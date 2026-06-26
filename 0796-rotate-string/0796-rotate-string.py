@@ -1,6 +1,5 @@
 class Solution:
     def rotateString(self, s: str, goal: str) -> bool:
-        if goal in s+s:
-            return True
-        else :
-            return False
+        if len(goal) != len(s):
+            return  False
+        return goal in (s+s)
