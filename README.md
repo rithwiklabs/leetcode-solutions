@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3024-type-of-triangle](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3024-type-of-triangle) |
+| [3033-modify-the-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3033-modify-the-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3033-modify-the-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3033-modify-the-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Theory
 |  |
