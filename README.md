@@ -153,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
