@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2643-row-with-maximum-ones](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [3024-type-of-triangle](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3033-modify-the-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3033-modify-the-matrix) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3024-type-of-triangle](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Stack
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2643-row-with-maximum-ones](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [3033-modify-the-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3033-modify-the-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -159,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1291-sequential-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
