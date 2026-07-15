@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
