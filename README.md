@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0796-rotate-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0832-flipping-an-image) |
