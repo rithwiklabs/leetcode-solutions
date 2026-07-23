@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0500-keyboard-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0766-toeplitz-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0500-keyboard-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1189-maximum-number-of-balloons](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
