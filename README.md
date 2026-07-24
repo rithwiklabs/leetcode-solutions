@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1556-thousand-separator](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1556-thousand-separator) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -250,4 +251,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
