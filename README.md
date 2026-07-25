@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1154-day-of-the-year](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2525-categorize-box-according-to-criteria](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [2614-prime-in-diagonal](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [1154-day-of-the-year](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1556-thousand-separator](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1556-thousand-separator) |
