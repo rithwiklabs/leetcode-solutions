@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1154-day-of-the-year](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1154-day-of-the-year) |
+| [1512-number-of-good-pairs](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2525-categorize-box-according-to-criteria](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2525-categorize-box-according-to-criteria) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1512-number-of-good-pairs](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1512-number-of-good-pairs](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Greedy
 |  |
