@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1929-concatenation-of-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2390-removing-stars-from-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1929-concatenation-of-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
