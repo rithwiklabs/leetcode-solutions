@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1646-get-maximum-in-generated-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1929-concatenation-of-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2390-removing-stars-from-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1646-get-maximum-in-generated-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1672-richest-customer-wealth](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
