@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1929-concatenation-of-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2390-removing-stars-from-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3731-find-missing-elements](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3024-type-of-triangle](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
