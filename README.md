@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3024-type-of-triangle](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3024-type-of-triangle) |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
