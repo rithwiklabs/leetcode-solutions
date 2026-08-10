@@ -6,5 +6,6 @@ class Solution {
                 return false;
         }
         return true;
+        // return !s.contains("ba"); 1-line Answer
     }
 }
