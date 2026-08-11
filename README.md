@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2923-find-champion-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2923-find-champion-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3033-modify-the-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3033-modify-the-matrix) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3731-find-missing-elements](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
