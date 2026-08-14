@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2129-capitalize-the-title](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
