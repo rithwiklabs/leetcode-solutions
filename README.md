@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3477-fruits-into-baskets-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
