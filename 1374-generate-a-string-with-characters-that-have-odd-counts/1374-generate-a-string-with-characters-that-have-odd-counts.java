@@ -1,8 +1,10 @@
 class Solution {
     public String generateTheString(int n) {
+        StringBuilder str = new StringBuilder();
         if((n&1) == 0)
-            return "a".repeat(n-1)+"b";
+            str.append("a".repeat(n-1)).append("b");
         else
-            return "a".repeat(n);
+            str.append("a".repeat(n));
+        return str.toString();
     }
 }
