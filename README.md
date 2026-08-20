@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Array
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3033-modify-the-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3033-modify-the-matrix) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
