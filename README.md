@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3248-snake-in-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3248-snake-in-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 | [3477-fruits-into-baskets-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Array
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3248-snake-in-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
