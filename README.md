@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3024-type-of-triangle) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3536-maximum-product-of-two-digits](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3248-snake-in-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3248-snake-in-matrix) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
 |  |
