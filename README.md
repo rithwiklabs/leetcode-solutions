@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0796-rotate-string) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0541-reverse-string-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0832-flipping-an-image](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
