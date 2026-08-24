@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1556-thousand-separator](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1556-thousand-separator) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
