@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Greedy
