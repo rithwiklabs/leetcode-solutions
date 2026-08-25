@@ -1,18 +1,13 @@
 class Solution {
     public String thousandSeparator(int n) {
-        String s = Integer.toString(n);
-        StringBuilder res= new StringBuilder();
-        int count=0;
-        for(int i=s.length()-1;i>=0;i--)
+        String str = String.valueOf(n);
+        StringBuilder res = new StringBuilder();
+        for(int i=0;i< str.length();i++)
         {
-            res.append(s.charAt(i));
-            count++;
-            if(count==3 && i>0)
-            {
-                res.append('.');
-                count=0;
-            }
+            if(i!=0 && (str.length()-i)%3==0)
+                res.append(".");
+            res.append(str.charAt(i));
         }
-        return res.reverse().toString();
+        return res.toString();
     }
 }
