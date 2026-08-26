@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Greedy
 |  |
