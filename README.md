@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3174-clear-digits](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 | [3477-fruits-into-baskets-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Array
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [2000-reverse-prefix-of-word](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Tree
 |  |
 | ------- |
