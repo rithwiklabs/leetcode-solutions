@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3174-clear-digits) |
