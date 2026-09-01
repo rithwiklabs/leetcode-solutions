@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2490-circular-sentence](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2490-circular-sentence) |
+| [2788-split-strings-by-separator](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
+| [2788-split-strings-by-separator](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2923-find-champion-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2923-find-champion-i) |
