@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3838-weighted-word-mapping](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Bit Manipulation
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 | [3477-fruits-into-baskets-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
