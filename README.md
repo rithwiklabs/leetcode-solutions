@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2299-strong-password-checker-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2299-strong-password-checker-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2490-circular-sentence](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2490-circular-sentence) |
 | [2788-split-strings-by-separator](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
