@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3894-traffic-signal-color](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3838-weighted-word-mapping](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
+| [3894-traffic-signal-color](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## Array
 |  |
 | ------- |
