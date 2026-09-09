@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3921-score-validator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3921-score-validator) |
 ## Array
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3921-score-validator](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
 | ------- |
