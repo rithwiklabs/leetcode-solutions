@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2278-percentage-of-letter-in-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2299-strong-password-checker-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2299-strong-password-checker-ii) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
