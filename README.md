@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2299-strong-password-checker-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2299-strong-password-checker-ii) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2325-decode-the-message](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2490-circular-sentence](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2490-circular-sentence) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2325-decode-the-message](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
