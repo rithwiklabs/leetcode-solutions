@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0917-reverse-only-letters) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0804-unique-morse-code-words](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0877-stone-game) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0804-unique-morse-code-words](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1189-maximum-number-of-balloons](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
