@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1408-string-matching-in-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1446-consecutive-characters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1556-thousand-separator](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1556-thousand-separator) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1408-string-matching-in-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Dynamic Programming
 |  |
