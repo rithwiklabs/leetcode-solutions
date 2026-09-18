@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2490-circular-sentence) |
+| [2678-number-of-senior-citizens](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2788-split-strings-by-separator](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
+| [2678-number-of-senior-citizens](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2788-split-strings-by-separator](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
