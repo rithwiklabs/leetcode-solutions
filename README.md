@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0917-reverse-only-letters) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0877-stone-game) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
