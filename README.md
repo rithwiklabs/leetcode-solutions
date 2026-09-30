@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2540-minimum-common-value](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3477-fruits-into-baskets-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting Sort
 |  |
@@ -654,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
