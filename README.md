@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0925-long-pressed-name) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Ternary Search
 |  |
