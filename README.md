@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0877-stone-game) |
+| [1037-valid-boomerang](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1154-day-of-the-year](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1037-valid-boomerang](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rithwiklabs/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1037-valid-boomerang](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Divide and Conquer
 |  |
