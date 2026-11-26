@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3827-count-monobit-integers](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3827-count-monobit-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/rithwiklabs/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/rithwiklabs/leetcode-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3827-count-monobit-integers](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3827-count-monobit-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
