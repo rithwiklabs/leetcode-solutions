@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3360-stone-removal-game](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3248-snake-in-matrix) |
+| [3360-stone-removal-game](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3477-fruits-into-baskets-ii](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/rithwiklabs/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
